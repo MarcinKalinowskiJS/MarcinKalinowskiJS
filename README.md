@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Marcin Kalinowski from Poland
-- 👀 I’m interested in IT and right now looking for a job it that area.
+- 👀 I’m interested in IT.
 - 🌱 I’m currently learning Java, C# and also not associated with github - English.
 - 📫 How to reach me: e-mail me on marcinkalinowski5 (at) o2.pl and add somethign like "[Github]" to mail topic.
 
